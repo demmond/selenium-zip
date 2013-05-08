@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.thed</groupId>
-	<artifactId>qtpzip</artifactId>
+	<artifactId>seleniumzip</artifactId>
 	<packaging>jar</packaging>
 	<version>4.1</version>
-	<name>qtp-Zbot</name>
+	<name>selenium-Zbot</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>
