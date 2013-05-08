@@ -7,5 +7,3 @@ ZIP (Zephyr Interceptor Program) for Selenium
 
 [API Docs](http://zeedeveloper.github.com/selenium-zip/apidocs/ "Access javadocs")
 
-~                                                                                                                                                                                                 
-~         
